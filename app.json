@@ -14,15 +14,15 @@
     "env": {
         "app_id": {
             "description": "Your APP ID From my.telegram.org",
-            "value": ""
+            "value": "27627117"
         },
         "api_hash": {
             "description": "Your API Hash From my.telegram.org",
-            "value": ""
+            "value": "385615c608ac4c92063b78e882c9cc7f"
         },
         "bot_token": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""        
+            "value": "7315834891:AAGBKObka2AzPeAgqYu3VtwOFuRTb2Vx-x4"        
         },
         "custom_caption": {
             "description": "Caption Text.  use {file_name} to get original file name",
